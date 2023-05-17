@@ -1,6 +1,6 @@
 ## <img width=15 height=15 src="./src/imagens/pokeball.png"> Lista de Pókemon <img width=15 height=15 src="./src/imagens/pokeball.png">
 A lista funcionando: <br>
-<a target="_blank"> https://beatrindade.github.io/Lista_Pokemon/ <a><br>
+https://beatrindade.github.io/Lista_Pokemon/ <br>
 <br>
 Neste projeto aprendi:<br>
 - Alterar a cor tema para "noturno", quando aperta o botão; <br>
